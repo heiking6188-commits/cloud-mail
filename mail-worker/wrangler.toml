@@ -1,4 +1,4 @@
-name = "cloud-mail"
+name = "cloudmail"
 main = "src/index.js"
 compatibility_date = "2025-06-04"
 keep_vars = true
@@ -8,7 +8,7 @@ enabled = true
 
 #[[d1_databases]]
 #binding = "db"			#d1数据库绑定名默认不可修改
-#database_name = "cloud-mail"		#d1数据库名字
+#database_name = "cloudmail"		#d1数据库名字
 #database_id = "0693b118-474f-4e7c-93b1-5d1fc452ea23"		#d1数据库id
 
 #[[kv_namespaces]]
